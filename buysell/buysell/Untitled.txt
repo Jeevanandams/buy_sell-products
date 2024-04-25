@@ -1,0 +1,15 @@
+
+
+id	title	description	  price	       category	                    image	
+1	Car 1	A description	15000.00	car	             product_images\car.jpeg	
+2	Car 2	A description	18000.00	car	             product_images\car2.jpeg	
+3	Bike 1	A description	2000.00	        bike	             product_images\apache.jpeg	
+4	Bike 2	A description	2500.00	        bike	             product_images\r15.jpeg	
+7	JAGUAR	description	567.00          car	             product_images\jaguar.jpeg	
+8   AMBASSADOR	Description	4567.00 	car	             product_images\ambassador.jpeg	
+9	bullet	description	90000.00        bike	             product_images\royal.jpeg	
+10	rc	description	90000.00	bike	             product_images\rc.jpeg	
+11	vivo	description	20000.00	mobile	             product_images\vivo.jpeg	
+12	samsung	description	30000.00	mobile	             product_images\samsung.jpeg	
+13	nokia	description	40200.00	mobile	             product_images\nokia.jpeg	
+14	oppo	description	30000.00	mobile	             product_images\oppo.jpeg	

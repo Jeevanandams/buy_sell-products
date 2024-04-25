@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sell Products</title>
+</head>
+<body>
+    <h1>Sell Products</h1>
+    <ul>
+        {% for product in products %}
+            <li>
+                <strong>{{ product[1] }}</strong><br>
+                Description: {{ product[2] }}<br>
+                Price: ${{ product[3] }}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
